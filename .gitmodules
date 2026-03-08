@@ -1,0 +1,48 @@
+[submodule "vendor/anthropics/skills"]
+	path = vendor/anthropics/skills
+	url = https://github.com/anthropics/skills
+[submodule "vendor/vercel-labs/agent-skills"]
+	path = vendor/vercel-labs/agent-skills
+	url = https://github.com/vercel-labs/agent-skills
+[submodule "vendor/getsentry/skills"]
+	path = vendor/getsentry/skills
+	url = https://github.com/getsentry/skills
+[submodule "vendor/hashicorp/agent-skills"]
+	path = vendor/hashicorp/agent-skills
+	url = https://github.com/hashicorp/agent-skills
+[submodule "vendor/supabase/agent-skills"]
+	path = vendor/supabase/agent-skills
+	url = https://github.com/supabase/agent-skills
+[submodule "vendor/LambdaTest/agent-skills"]
+	path = vendor/LambdaTest/agent-skills
+	url = https://github.com/LambdaTest/agent-skills
+[submodule "vendor/trailofbits/skills"]
+	path = vendor/trailofbits/skills
+	url = https://github.com/trailofbits/skills
+[submodule "vendor/agamm/claude-code-owasp"]
+	path = vendor/agamm/claude-code-owasp
+	url = https://github.com/agamm/claude-code-owasp
+[submodule "vendor/netresearch/security-audit-skill"]
+	path = vendor/netresearch/security-audit-skill
+	url = https://github.com/netresearch/security-audit-skill
+[submodule "vendor/BehiSecc/VibeSec-Skill"]
+	path = vendor/BehiSecc/VibeSec-Skill
+	url = https://github.com/BehiSecc/VibeSec-Skill
+[submodule "vendor/onmax/nuxt-skills"]
+	path = vendor/onmax/nuxt-skills
+	url = https://github.com/onmax/nuxt-skills
+[submodule "vendor/Lombiq/Tailwind-Agent-Skills"]
+	path = vendor/Lombiq/Tailwind-Agent-Skills
+	url = https://github.com/Lombiq/Tailwind-Agent-Skills
+[submodule "vendor/obra/superpowers"]
+	path = vendor/obra/superpowers
+	url = https://github.com/obra/superpowers
+[submodule "vendor/sickn33/antigravity-awesome-skills"]
+	path = vendor/sickn33/antigravity-awesome-skills
+	url = https://github.com/sickn33/antigravity-awesome-skills
+[submodule "vendor/ccheney/robust-skills"]
+	path = vendor/ccheney/robust-skills
+	url = https://github.com/ccheney/robust-skills
+[submodule "vendor/addyosmani/web-quality-skills"]
+	path = vendor/addyosmani/web-quality-skills
+	url = https://github.com/addyosmani/web-quality-skills
