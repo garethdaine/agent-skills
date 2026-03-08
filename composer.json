@@ -1,0 +1,31 @@
+{
+    "name": "garethdaine/agent-skills",
+    "description": "AgentOps curated AI agent skills — SKILL.md files, scripts, and resources bundled as git submodules.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {},
+    "require": {},
+    "extra": {
+        "agentops": {
+            "type": "skills",
+            "submodules": [
+                "vendor/anthropics/skills",
+                "vendor/vercel-labs/agent-skills",
+                "vendor/getsentry/skills",
+                "vendor/hashicorp/agent-skills",
+                "vendor/supabase/agent-skills",
+                "vendor/LambdaTest/agent-skills",
+                "vendor/trailofbits/skills",
+                "vendor/agamm/claude-code-owasp",
+                "vendor/netresearch/security-audit-skill",
+                "vendor/BehiSecc/VibeSec-Skill",
+                "vendor/onmax/nuxt-skills",
+                "vendor/Lombiq/Tailwind-Agent-Skills",
+                "vendor/obra/superpowers",
+                "vendor/sickn33/antigravity-awesome-skills",
+                "vendor/ccheney/robust-skills",
+                "vendor/addyosmani/web-quality-skills"
+            ]
+        }
+    }
+}
